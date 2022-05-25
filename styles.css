@@ -1,0 +1,11 @@
+.container-fluid{
+    padding: 15px;
+}
+
+#list{
+    padding: 5px 15px ;
+}
+
+#notasks{
+    text-align: center;
+}
